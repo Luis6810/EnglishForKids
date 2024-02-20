@@ -1,6 +1,8 @@
 # English For Kids
 Aplicación android para el aprendizaje del idioa inglés enfocado en niños.
 
+Para facilitar el aprendizaje de mlos niños, la aplicación se enfoca en relacionar un concepto con diferente representaciones del mismo, ya sea visual, auditivo. De esta manera el cerebro del niño podrá identificar de manera más sencilla los conceptos mentalmente, sin necesidad de una carga por el idioma materno.
+
 ## Menu
 <img title="menu" alt="menu" src="img/menu.png">
 
@@ -23,5 +25,5 @@ Aplicación android para el aprendizaje del idioa inglés enfocado en niños.
 <img title="numbers" alt="numbers" src="img/numbers.png">
 
 ### Ejemplo
-<img style="" title="nose" alt="nose" src="img/nose-example.jpg">
+<img style="" title="nose" alt="nose" src="img/nose-example.png">
 
